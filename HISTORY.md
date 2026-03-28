@@ -1,3 +1,7 @@
+unreleased
+===================
+  * deps: path-to-regexp@0.1.13
+
 1.3.10 / 2024-12-06
 ===================
   * deps: path-to-regexp@0.1.12
